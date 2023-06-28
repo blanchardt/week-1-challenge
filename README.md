@@ -6,7 +6,7 @@ The page is split into 3 main parts, the header, footer and the main body.
 Header:
 ![Header](./assets/images/header.png)
 Body:
-![Hero Image](./assets/images/hero-image)
+![Hero Image](./assets/images/hero-image.png)
 ![Main Body](./assets/images/main-body.png)
 Footer:
 ![Footer](./assets/images/footer.png)
