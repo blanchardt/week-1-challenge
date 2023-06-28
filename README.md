@@ -14,7 +14,7 @@ Footer:
 Using the navigation in the top left of the header, you will be able to quickly navigate to those sections on the page.
 
 ## How to Get to the Page
-you can use this link: 
+you can use this link to get to the live site: https://blanchardt.github.io/week-1-challenge/
 
 ## Credits
 Modified by: Trevor Blanchard
