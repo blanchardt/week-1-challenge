@@ -2,7 +2,7 @@
 Modify the starter code for the marketing agency code.
 
 ## Project Description
-The page is split into 3 main parts, the header, footer and the main body.
+The page is split into 3 main parts, the header, footer and the main body.  
 Header:
 ![Header](./assets/images/header.png)
 Body:
