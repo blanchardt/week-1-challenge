@@ -20,7 +20,6 @@ p {
 }
 
 /* ID selector */
-
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,7 +113,6 @@ p {
 }
 
 /* Element Selectors with a parent of specified ID Selector */
-
 #search-engine-optimization img {
     max-height: 200px;
 }
